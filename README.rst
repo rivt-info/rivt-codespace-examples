@@ -8,7 +8,7 @@ rivt-codespace-examples
 #. click the *rivt-codespace-examples* option to create and open a *rivt Codespace* with the examples
 
 
-.. figure::  image/codespace2.png
+.. figure::  images/codespace2.png
     :class: dark-light
     :width: 75%
     :align: center
