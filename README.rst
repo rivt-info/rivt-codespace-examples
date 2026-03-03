@@ -6,3 +6,10 @@ rivt-codespace-examples
 #. click the green *Code* button on the GitHub page 
 #. select the *Codespaces* tab
 #. click the *rivt-codespace-examples* option to create and open a *rivt Codespace* with the examples
+
+
+.. figure::  image/codespace2.png
+    :class: dark-light
+    :width: 75%
+    :align: center
+    :alt: ide layout
