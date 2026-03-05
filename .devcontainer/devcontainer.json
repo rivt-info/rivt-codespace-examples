@@ -1,10 +1,1 @@
 // .devcontainer/devcontainer.json
-{
-  "image": "://mcr.microsoft.com",
-  "features": {
-    "ghcr.io/devcontainers/features/python:1": {
-        "installUv": true
-    }
-},
-  "postCreateCommand": "uv pip install -r requirements.txt"
-}
