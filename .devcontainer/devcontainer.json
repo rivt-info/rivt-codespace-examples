@@ -2,14 +2,9 @@
 {
   "image": "://mcr.microsoft.com",
   "features": {
-    "ghcr.io/jsburckhardt/devcontainer-features/uv:1": {}
-  },
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-python.python"
-      ]
+    "ghcr.io/devcontainers/features/python:1": {
+        "installUv": true
     }
-  },
+},
   "postCreateCommand": "uv pip install -r requirements.txt"
 }
